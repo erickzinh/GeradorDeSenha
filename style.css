@@ -1,0 +1,24 @@
+:root{
+    --branco: rgb(255, 255, 255);
+    --cordefundo: rgb(0, 0, 22);
+    --fundosenha: rgb(0, 35, 131);
+    --fundotexto: rgb(0, 35, 192);
+    --borda: rgb(0, 3, 27);
+    --nova: "New Amsterdam", sans-serif;
+    --robotoflex: "Roboto Flex";
+}   
+
+
+body{
+    color:var(--branco);
+    background-color: var(--cordefundo);
+}
+
+.titulo-principal{
+    font-family: var(--nova);
+}
+
+
+.titulo-segundario{
+    font-family: var(--robotoflex);
+}
