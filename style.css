@@ -22,3 +22,12 @@ body{
 .titulo-segundario{
     font-family: var(--robotoflex);
 }
+.conteudo-titulo{
+    text-align: center;
+    margin-top: 80px;
+}
+.conteudo-senha{
+background-color: var(--fundosenha);
+padding: 24px;
+border-bottom: 6xp solid var(--borda);
+}
